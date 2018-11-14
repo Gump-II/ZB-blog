@@ -3899,7 +3899,7 @@ span.r-hide a i.fa {
     background-color: #F8FCFE;
     z-index: 2;
     position: relative;
-    border-left-color: #2F889A;
+    border-left-color: red;
 }
 
 .home-layout .post_box:last-child {
@@ -9780,7 +9780,7 @@ ul.hottags {
     position: absolute;
     top: -1px;
     left: -25px;
-    background: #2F8699;
+    background: red;
     padding: 5px;
     width: 25px;
     text-align: center;
@@ -12391,7 +12391,7 @@ span.toggle-btn,
         border: 1px solid #ddd;
     }
     .post_box:hover {
-        border-left-color: #2F889A;
+        border-left-color: red;
         border-left: solid 2px #2F889A;
     }
     /*show*/
@@ -13094,7 +13094,7 @@ span.toggle-btn,
         padding-bottom: 10px;
     }
     .post_box:hover {
-        border-left-color: #2F889A;
+        border-left-color: red;
         border-left: solid 2px #2F889A;
     }
     /*show*/
