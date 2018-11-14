@@ -7319,7 +7319,8 @@ li.weixin a span:after {
 .li-icon-7,
 .li-icon-8,
 .li-icon-9 {
-    background: #6FABB7;
+    background: #FF6969;
+    ;
 }
 
 #side_hot ul li a:hover,
@@ -8847,7 +8848,7 @@ span.WB-OS {
 .cms-title i.fa {
     float: left;
     font-size: 18px;
-    color: #2f889a;
+    color: #FF6969;
     width: 40px;
     height: 40px;
     line-height: 40px;
