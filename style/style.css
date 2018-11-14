@@ -1,8 +1,6 @@
 ﻿@charset "utf-8";
 
-/*Theme Name: Talklee
-Author: 李洋博客
-Author URI: https://www.talklee.com/
+/*Theme 
 Tags: 扁平化,响应式,简洁黑白色,多设备支持*/
 
 
@@ -185,6 +183,15 @@ img {
     -moz-transition: -moz-transform .3s linear;
     -o-transition: -o-transform .3s linear;
     transition: transform .3s linear;
+}
+
+
+/*页面加载防抖初始化*/
+
+html,
+body {
+    overflow: auto;
+    margin: 0;
 }
 
 ins {
@@ -1004,7 +1011,7 @@ i.fa.fa-chevron-circle-right {
 
 #logo img {
     width: 100%;
-    padding: 13px 0 0 5px;
+    padding: 2px 0 0 5px;
 }
 
 .header-nav {
@@ -10036,7 +10043,7 @@ li.site-about {
 /*footer*/
 
 .footer a {
-    color: #BFBFBF;
+    color: #FFF;
     font-size: 13px;
 }
 
@@ -10046,6 +10053,7 @@ li.site-about {
 }
 
 .footer .copyright {
+    color: #FFF;
     font: 13px Verdana, 微软雅黑, Geneva, sans-serif;
 }
 
