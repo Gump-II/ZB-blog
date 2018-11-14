@@ -177,6 +177,7 @@ p {
 img {
     margin: 0;
     padding: 0;
+    border-radius: 6px;
     max-width: 100%;
     height: auto;
     -webkit-transition: -webkit-transform .3s linear;
@@ -6552,23 +6553,7 @@ a.backtolist:hover {
     box-shadow: 0 0 10px #fff;
     -webkit-transform: rotateZ(360deg);
     -moz-transform: rotateZ(360deg);
-    transform: rotateZ(360deg);
-    rgba(255,
-    255,
-    255,
-    .6),
-    inset 0 0 20px rgba(255,
-    255,
-    255,
-    1);
-    -webkit-rgba(255,
-    255,
-    255,
-    .6),
-    inset 0 0 20px rgba(255,
-    255,
-    255,
-    1);
+    transform: rotateZ(360deg), rgba(255, 255, 255, .6), inset 0 0 20px rgba(255, 255, 255, 1), -webkit-rgba(255, 255, 255, .6), inset 0 0 20px rgba(255, 255, 255, 1);
 }
 
 .widget-thumb {
@@ -6743,7 +6728,7 @@ a.backtolist:hover {
     -webkit-rgba(255,
     255,
     255,
-    0.6),
+    .6),
     inset 0 0 20px rgba(255,
     255,
     255,
