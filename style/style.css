@@ -1108,7 +1108,7 @@ i.fa.fa-chevron-circle-right {
 .header-nav li.current-post-ancestor,
 .header-nav li a.current-menu-item,
 .header-nav .nav-pills>li>a.on {
-    /*background: #2F889A;*/
+    /*background: #FF5E52;*/
     color: #0090ce;
 }
 
@@ -1446,7 +1446,7 @@ i.fa.fa-chevron-circle-right {
 }
 
 .search:hover {
-    border: 1px solid #2F889A;
+    border: 1px solid #FF5E52;
     background: #fff;
 }
 
@@ -2669,7 +2669,7 @@ input[type="submit"] {
 }
 
 .widget-content.divSearchPanel input[type="submit"] {
-    background-color: #2F889A;
+    background-color: #FF5E52;
     color: #FFFFFF;
     margin-left: -6px;
     height: 40px;
@@ -3392,9 +3392,9 @@ input[type="submit"] {
 }
 
 .post-meta span a:hover {
-    background: #2f889a;
+    background: #FF5E52;
     color: #fff;
-    border: 1px solid #2f889a;
+    border: 1px solid #FF5E52;
 }
 
 .post-meta span i {
@@ -4209,7 +4209,7 @@ span.muted.zcenter_favorite a {
     margin-bottom: 10px;
     margin-left: 0px;
     padding-left: 2px;
-    border-bottom: 1px solid #2f889a;
+    border-bottom: 1px solid #FF5E52;
     color: #666;
     font-size: 15px;
     line-height: 180%;
@@ -4256,7 +4256,7 @@ p.ex-strong i.fa {
 
 .multibox.noimg h3 i.fa {
     padding-right: 5px;
-    color: #2F889A;
+    color: #FF5E52;
 }
 
 .noimginfo {
@@ -4323,7 +4323,7 @@ a.read-more:before {
     height: 28px;
     top: -28px;
     left: 0;
-    background-color: #2F889A;
+    background-color: #FF5E52;
     z-index: -1;
     -moz-transition: ease-in-out 0.3s;
     -webkit-transition: ease-in-out 0.3s;
@@ -4604,12 +4604,12 @@ a.read-more:hover:before {
     float: left;
     line-height: 45px;
     font-weight: 400;
-    color: #2F889A;
+    color: #FF5E52;
     position: relative;
     height: 45px;
     margin: 0px 20px;
     padding: 0 10px;
-    border-bottom: 2px solid #2F889A;
+    border-bottom: 2px solid #FF5E52;
 }
 
 .widget-box .post_box_title i.fa {
@@ -4623,7 +4623,7 @@ a.read-more:hover:before {
     font-size: 18px;
     line-height: 45px;
     font-weight: 400;
-    color: #2F889A;
+    color: #FF5E52;
     position: relative;
     height: 45px;
     padding: 0px 20px;
@@ -4778,7 +4778,7 @@ a.read-more:hover:before {
 }
 
 .home_shop .shop_main .shop_btn span {
-    color: #f24c27;
+    color: #FF6969;
     font-weight: bold;
 }
 
@@ -4841,8 +4841,8 @@ a.read-more:hover:before {
     text-align: center;
     margin: 45px -15px 10px -15px;
     padding: 6px 20px;
-    border-left: 5px solid #2f889a;
-    border-right: 5px solid #2f889a;
+    border-left: 5px solid #FF5E52;
+    border-right: 5px solid #FF5E52;
 }
 
 .post-title h1 {
@@ -5191,15 +5191,15 @@ table.form-table input.button-primary:disabled {
     line-height: 190%;
     margin: 2px -20px 10px -20px;
     padding: 4px 30px;
-    border-left: 4px solid #2f889a;
-    border-bottom: 1px solid #2f889a;
+    border-left: 4px solid #FF5E52;
+    border-bottom: 1px solid #FF5E52;
 }
 
 .entry h4 {
     margin: 10px 0;
     margin-left: 10px;
     padding-left: 10px;
-    border-bottom: 1px solid #2f889a;
+    border-bottom: 1px solid #FF5E52;
     color: #666;
     font-size: 15px;
     font-weight: bold;
@@ -5633,7 +5633,7 @@ span.articleLogo img {
     margin-bottom: 10px;
     margin-left: 0px;
     padding-left: 2px;
-    border-bottom: 1px solid #2f889a;
+    border-bottom: 1px solid #FF5E52;
     color: #666;
     font-size: 15px;
     line-height: 180%;
@@ -5975,7 +5975,7 @@ p.ex-strong i.fa {
 
 h3 span.h3line {
     margin-left: 2px;
-    border-bottom: 2px solid #2F889A;
+    border-bottom: 2px solid #FF5E52;
     padding-bottom: 11px;
 }
 
@@ -6367,7 +6367,7 @@ a.backtolist:hover {
     line-height: 45px;
     height: 40px;
     margin: 0 12px 0 0;
-    color: #2f889a;
+    color: #FF5E52;
     font-size: 18px;
 }
 
@@ -6893,7 +6893,7 @@ a.backtolist:hover {
 #divStatistics ul li:before,
 #divCatalog ul li:before,
 #divFavorites ul li:before {
-    color: #2F889A;
+    color: #FF5E52;
     content: "\f0da";
     right: 6px;
     top: -1px;
@@ -8384,7 +8384,7 @@ a.comment_at {
 }
 
 span.LevelName {
-    background-color: #2F889A;
+    background-color: #FF5E52;
     color: #fff !important;
     font-size: 12px;
     margin: 0 5px 0 1px;
@@ -8848,7 +8848,7 @@ span.WB-OS {
 .cms-title i.fa {
     float: left;
     font-size: 18px;
-    color: #FF6969;
+    color: #FF5E52;
     width: 40px;
     height: 40px;
     line-height: 40px;
@@ -8972,7 +8972,7 @@ li.list-title i.fa {
 
 #listree-talklee strong {
     font-weight: 500;
-    color: #2F889A;
+    color: #FF5E52;
 }
 
 .listree-box {
@@ -10608,7 +10608,7 @@ img.qcloudimg {
 .bt-box.tnrt:hover,
 .bt-box.qq:hover,
 .backtop .bt-box:hover {
-    background: #2F889A;
+    background: #FF5E52;
 }
 
 .bt-box.weixin:hover a,
@@ -11710,8 +11710,8 @@ ul.xoxo.blogroll li a:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #2F889A;
-    border-color: #2F889A;
+    background-color: #FF5E52;
+    border-color: #FF5E52;
     display: inline-block;
     font-weight: normal;
     text-align: center;
@@ -11815,12 +11815,12 @@ ul.xoxo.blogroll li a:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #2F889A;
-    border-color: #2F889A;
+    background-color: #FF5E52;
+    border-color: #FF5E52;
 }
 
 .btn-default {
-    color: #2F889A;
+    color: #FF5E52;
     background-color: #fff;
     border-color: #ddd;
 }
@@ -11835,7 +11835,7 @@ article.sandraItem:hover .themes-item {
 }
 
 a.btn-primary:hover {
-    color: #2F889A;
+    color: #FF5E52;
     background: #fff;
 }
 
@@ -12064,7 +12064,7 @@ span.toggle-btn,
     }
     #header {
         height: 52px;
-        border-bottom: 2px solid #2F889A;
+        border-bottom: 2px solid #FF5E52;
         position: fixed;
         z-index: 265;
     }
@@ -12118,7 +12118,7 @@ span.toggle-btn,
         border-bottom: 1px #333 solid;
     }
     #header.fixednav {
-        border-bottom: 2px solid #2F889A;
+        border-bottom: 2px solid #FF5E52;
         border-top-width: 0px;
     }
     /*.nav-sjlogo {top:0;height:52px;line-height:52px;background:#FFFFFF;width:100%;text-align:center;}
@@ -12393,7 +12393,7 @@ span.toggle-btn,
     }
     .post_box:hover {
         border-left-color: red;
-        border-left: solid 2px #2F889A;
+        border-left: solid 2px #FF5E52;
     }
     /*show*/
     .waterfall-show {
@@ -12758,7 +12758,7 @@ span.toggle-btn,
     }
     #header {
         height: 52px;
-        border-bottom: 2px solid #2F889A;
+        border-bottom: 2px solid #FF5E52;
         position: fixed;
         z-index: 265;
     }
@@ -12812,7 +12812,7 @@ span.toggle-btn,
         border-bottom: 1px #333 solid;
     }
     #header.fixednav {
-        border-bottom: 2px solid #2F889A;
+        border-bottom: 2px solid #FF5E52;
         border-top-width: 0px;
     }
     /*.nav-sjlogo {top:0;height:52px;line-height:52px;background:#FFFFFF;width:100%;text-align:center;}
@@ -13096,7 +13096,7 @@ span.toggle-btn,
     }
     .post_box:hover {
         border-left-color: red;
-        border-left: solid 2px #2F889A;
+        border-left: solid 2px #FF5E52;
     }
     /*show*/
     .waterfall-show {
