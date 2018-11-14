@@ -9770,6 +9770,8 @@ ul.hottags {
 }
 
 .aiv {
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
     background: #fff;
     width: 100%;
 }
@@ -12997,7 +12999,7 @@ span.toggle-btn,
     }
     .home-layout .post_box {
         margin: 10px 0;
-        border-radius: 2px;
+        border-radius: 5px;
         box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
         padding-bottom: 8px;
     }
