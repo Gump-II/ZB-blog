@@ -946,6 +946,12 @@ i.fa.fa-chevron-circle-right {
 }
 
 @media screen and (min-width:900px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     #logo:before {
         content: "";
         position: absolute;
@@ -11966,6 +11972,12 @@ span.toggle-btn,
 }
 
 @media screen and (min-width:1024px) and (max-width:1219px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .top-nav {
         width: 100%;
     }
@@ -12047,6 +12059,12 @@ span.toggle-btn,
 /*--Ipad--*/
 
 @media screen and (max-width:1023px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .nav-sousuo,
     .nav-sjlogo {
         display: block;
@@ -12746,6 +12764,12 @@ span.toggle-btn,
 }
 
 @media screen and (max-width:767px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .nav-sousuo,
     .nav-sjlogo {
         display: block;
@@ -13365,6 +13389,12 @@ span.toggle-btn,
 }
 
 @media screen and (min-width:561px) and (max-width:766px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .post_box .post-img {
         padding-top: 0;
     }
@@ -13434,6 +13464,12 @@ span.toggle-btn,
 }
 
 @media screen and (max-width:560px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     ul.xoxo.blogroll li {
         width: 50%;
     }
@@ -13607,12 +13643,24 @@ span.toggle-btn,
 }
 
 @media screen and (max-width:426px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .links-box ul li {
         width: 23.666%;
     }
 }
 
 @media screen and (max-width:380px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     #font-change,
     span.cmtnum {
         display: none;
@@ -13639,6 +13687,12 @@ span.toggle-btn,
 }
 
 @media screen and (max-width:315px) {
+    .entry ol.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
+    .entry ul.list-paddingleft-2 {
+        margin-left: 1.5em!important;
+    }
     .home_shop ul li {
         width: 94%;
     }
