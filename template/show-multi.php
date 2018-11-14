@@ -1,0 +1,6 @@
+<?php echo'<meta charset="UTF-8"><div style="text-align:center;padding:60px 0;font-size:16px;"><h2 style="font-size:60px;margin-bottom:32px;color:f00;">欢迎您的访问！</h2><h3>但是，这里并没有你想找的东西，喜欢这个的主题可以联系我们！</h3><h2 style="font-size:50px;margin-bottom:32px;color:f00;">QQ：229693666</h2></div>';die();?><li class="box" id="pbl-{$article.ID}">
+  <span class="boxa">
+    <a href="{$article.Url}" title="{$article.Title}" class="img-da"><img src="{if $zbp->Config('mxlee')->zdypic=="1" && strlen ( $article->Metas->tesetu ) > 6}{$article->Metas->tesetu}{else}{mxlee_firstimg($article)}{/if}" title="{$article.Title}" alt="{$article.Title}"/></a>
+    <h2><a href="{$article.Url}" title="{$article.Title}"><i class="fa fa-picture-o"></i>{$article.Title}</a></h2>
+  </span>
+</li>

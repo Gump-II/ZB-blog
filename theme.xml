@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>mxlee</id>
+<name>Gump-II官方博客</name>
+<url>https://blog.ybsnack.com</url>
+<note>Gump-II官方博客</note>
+<description>Gump-II官方博客</description>
+<path>main.php?act=config</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>Gump-II博客</name>
+  <email>yt.gan@aiesst.com</email>
+  <url>https://blog.ybsnack.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151626</adapted>
+<version>1.8</version>
+<pubdate>2017-10-01</pubdate>
+<modified>2018-07-26</modified>
+<price>288</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1>tabcelan|side_randimg|divproject|readers</sidebar1>
+  <sidebar2>comments|tags|follow</sidebar2>
+  <sidebar3>tags|follow</sidebar3>
+  <sidebar4>divproject|follow</sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
