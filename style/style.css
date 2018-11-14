@@ -1120,7 +1120,7 @@ i.fa.fa-chevron-circle-right {
 .header-nav li:hover a,
 .header-nav li.current-menu-ancestor a,
 .header-nav li.current-post-ancestor a {
-    color: #0090ce;
+    color: #FF6969;
     position: relative
 }
 
