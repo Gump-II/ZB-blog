@@ -3967,7 +3967,7 @@ span.r-hide a i.fa {
 }
 
 .img-rounded {
-    border-radius: 0
+    border-radius: 10px;
 }
 
 .post_box .post-con {
@@ -6743,7 +6743,7 @@ a.backtolist:hover {
     -webkit-rgba(255,
     255,
     255,
-    .6),
+    0.6),
     inset 0 0 20px rgba(255,
     255,
     255,
