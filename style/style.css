@@ -9745,10 +9745,10 @@ ul.hottags {
 .links-box ul li a:hover {
     background: #F13435;
     color: #fff;
-    -webkit-transform: scale(0.9));
-    -moz-transform: scale(0.9));
-    -ms-transform: scale(0.9));
-    -o-transform: scale(0.9));
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
     transform: scale(0.9);
 }
 
@@ -9766,7 +9766,7 @@ ul.hottags {
 .deanpol {
     position: relative;
     margin-bottom: 10px;
-    border: 1px solid #CCCCCC;
+    border: 1px solid rgb(238, 213, 210);
     float: left;
 }
 
@@ -12075,7 +12075,7 @@ span.toggle-btn,
     }
     #logo {
         width: 168px;
-        margin: 1px 0 0 0px;
+        margin: 0px 0 0 0px;
         text-align: center;
         float: none;
         display: inline-block;
@@ -12713,7 +12713,7 @@ span.toggle-btn,
         font-size: 1.1em;
     }
     #logo img {
-        padding: 8px 0 0 5px;
+        padding: 2px 0 0 5px;
     }
     .hdfocus {
         margin-top: 52px;
