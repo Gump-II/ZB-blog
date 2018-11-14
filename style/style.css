@@ -840,7 +840,7 @@ li.zzwx {
 /*top*/
 
 #top-header {
-    background: #e7e7e7;
+    background: rgb(238, 213, 210);
     color: #555!important;
     border-bottom: 1px solid #dedede;
 }
@@ -920,7 +920,6 @@ i.fa.fa-chevron-circle-right {
 
 #header {
     background: #fff;
-    box-shadow: rgb(238, 213, 210) 0px 6px 12px 0px;
     -webkit-box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.1);
     box-shadow: rgb(238, 213, 210) 0px 6px 12px 0px;
     width: 100%;
@@ -6279,7 +6278,7 @@ a.backtolist:hover {
     position: relative;
     clear: both;
     margin-bottom: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(238, 213, 210);
     background: none repeat scroll 0 0 #fff;
     vertical-align: top;
     -webkit-transition: all .3s ease-out 0s;
