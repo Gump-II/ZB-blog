@@ -3837,13 +3837,12 @@ span.r-hide a i.fa {
     border-left: solid 4px #fff;
     background-color: #fff;
     position: relative;
-    .post_box .post-img
 }
 
 .home-layout .post_box {
     margin: 10px 0;
     border-radius: 2px;
-    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 5px rgba(238, 213, 210, 1);
     /*box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.3);*/
 }
 
