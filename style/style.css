@@ -12626,7 +12626,7 @@ span.toggle-btn,
     }
     .multiintro,
     .excerpt {
-        display: none;
+        /*display: none;*/
     }
     .post_box.multi h3 {
         width: 98%;
